@@ -2,7 +2,6 @@ const links = [
     "https://performancecentre.com.tw/",
     "https://avvioimpresa.bo.cna.it/",
     "https://intensivo.puepenarm.com/",
-    "https://performancecentre.com.tw/",
 ];
 
 const fragment = document.createDocumentFragment();
