@@ -1,7 +1,9 @@
 const links = [
-    "https://performancecentre.com.tw/",
+    "https://untz.ba/",
     "https://avvioimpresa.bo.cna.it/",
-    "https://intensivo.puepenarm.com/",
+    "https://www.gpisrl.com/",
+    "https://husfarm.it/",
+    "https://medycznapolska.eu/",
 ];
 
 const fragment = document.createDocumentFragment();
